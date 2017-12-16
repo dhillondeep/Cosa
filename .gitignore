@@ -1,10 +1,6 @@
-*~
-arc
-build/boards.txt
+bin
 lib
-ref
-doc/html
-log/
-obj/
-
-
+src
+CMakeLists.txt
+config.json
+scripts/.idea
